@@ -24,7 +24,7 @@ public class CardHS {
 	
 	//key for 卡牌名称， value for 该名称的卡牌数量
 	Map<String,Integer> listWhite = new HashMap<>();
-	Map<String,Integer> listBlue = new HashMap<String,Integer>();
+	Map<String,Integer> listBlue = new HashMap<>();
 	Map<String,Integer> listPurple = new HashMap<String,Integer>();
 	//橙卡不重复机制，so use set
 	HashSet<String> setOrange = new HashSet<String>();

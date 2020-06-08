@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9272178c-d457-4627-901b-4cfbbc0227df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/N_IDEA_java.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d20tkCTV2653Nopzh62aGbCpqF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9272178c-d457-4627-901b-4cfbbc0227df" name="Default Changelist" comment="" />
+      <created>1591608096720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591608096720</updated>
+      <workItem from="1591608100079" duration="336000" />
+    </task>
+    <task id="LOCAL-00001" summary="test1">
+      <created>1591608250277</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591608250277</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="268" y="0" key="CommitChangelistDialog2" timestamp="1591608566711">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="268" y="0" key="CommitChangelistDialog2/62.0.1218.800@62.0.1218.800" timestamp="1591608566711" />
+    <state x="155" y="93" width="1031" height="613" key="DiffContextDialog" timestamp="1591608435537">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="155" y="93" width="1031" height="613" key="DiffContextDialog/62.0.1218.800@62.0.1218.800" timestamp="1591608435537" />
+    <state x="492" y="123" key="RollbackChangesDialog" timestamp="1591608523255">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="492" y="123" key="RollbackChangesDialog/62.0.1218.800@62.0.1218.800" timestamp="1591608523255" />
+    <state x="264" y="134" key="Vcs.Push.Dialog.v2" timestamp="1591608424058">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="264" y="134" key="Vcs.Push.Dialog.v2/62.0.1218.800@62.0.1218.800" timestamp="1591608424058" />
+    <state x="467" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591608178952">
+      <screen x="62" y="0" width="1218" height="800" />
+    </state>
+    <state x="467" y="318" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1218.800@62.0.1218.800" timestamp="1591608178952" />
+  </component>
+</project>
